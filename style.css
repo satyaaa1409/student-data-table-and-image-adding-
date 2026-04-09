@@ -1,0 +1,11 @@
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+th{border: 1px solid rgb(54, 30, 210);
+    background-color: rgb(46, 48, 203);
+    color: rgb(0, 0, 0);
+}
+table {
+    margin-bottom: 30px;
+}
